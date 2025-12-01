@@ -138,7 +138,3 @@ Para mais informaçõs, contate: o nosso atendimento online CHAT - ou através d
 ![imagem-23](/assets/guia-myhotel-ofertas/imagem-23.webp)
 
 **Boas Vendas!!**
-
-![imagem-24](/assets/guia-myhotel-ofertas/imagem-24.webp)
-
-![imagem-25](/assets/guia-myhotel-ofertas/imagem-25.webp)

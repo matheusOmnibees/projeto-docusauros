@@ -198,25 +198,27 @@ _**Obs:** selecionando o dia desejado, aparecerá também **o ícone de ‘+’*
 
 - **Vista Tarifário:**
 
+![imagem-34](/assets/guia-myhotel-calendario-360/imagem-34.webp)
+
 1.  Primeiramente, será preciso **maximizar** a linha do ‘tarifário’ **com o ‘tipo de disponibilidade: tarifário com impacto no inventário’**.
 2.  Depois, clicar sobre o dia desejado para aparecer o botão da ‘seta’ apontando para baixo, para ter acesso **ao botão “Atualizar Allotment’**.
 3.  E selecionando o dia que deseja aplicar a restrição, aparecerá também **o ícone de ‘+’** (localizado no canto inferior direito do dia), para fazer o _**‘arraste para copiar/soltar para colar’**_ para os dias futuros.
+   
 
 Ao clicar em “Atualizar Allotment”, será possível definir o número de allotment para o dia e tarifário, selecionados. Após definir será necessário clicar em “ok”:
 
-![imagem-34](/assets/guia-myhotel-calendario-360/imagem-34.webp)
+![imagem-35](/assets/guia-myhotel-calendario-360/imagem-35.webp)
 
 Caso queira replicar a informação atualizada, para os dias futuros, estacione o mouse no dia que tem a quantidade de “allotment” atualizada e clique sobre **‘+ Arrastar para copiar’/’soltar para colar’**:
 
-![imagem-35](/assets/guia-myhotel-calendario-360/imagem-35.webp)
+![imagem-36](/assets/guia-myhotel-calendario-360/imagem-36.webp)
 
 E por fim, será possível visualizar a **‘Disponibilidade Total da Propriedade’**, por dia:
 
-![imagem-36](/assets/guia-myhotel-calendario-360/imagem-36.webp)
+![imagem-37](/assets/guia-myhotel-calendario-360/imagem-37.webp)
+
 
 ### _**IMPORTANTE SABER!**_
-
-![imagem-37](/assets/guia-myhotel-calendario-360/imagem-37.webp)
 
 - **Após efetuar todos os cadastros ou atualizações desejadas, basta clicar em “Salvar” para que as informações sejam atualizadas no calendário.**
 
@@ -229,7 +231,6 @@ E por fim, será possível visualizar a **‘Disponibilidade Total da Propriedad
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-40](/assets/guia-myhotel-calendario-360/imagem-40.webp)
 
 Boas Vendas!!
 

@@ -194,7 +194,7 @@ _**Obs:** selecionando o dia desejado, aparecerá também **o ícone de ‘+’*
 1.  Ao clicar em **“Mais Restrições”**, será possível cadastrar ou atualizar: **mínimo de dias, máxima de dias, estadia certa, dias de antecedência, fechado à chegada e fechado a saída**.
 2.  E selecionando o dia que deseja aplicar a restrição, aparecerá também **o ícone de ‘+’** (localizado no canto inferior direito do dia), para fazer o _**‘arraste para copiar’/’solte para colar’**_ para os dias futuros.
 
-### Allotment: para os hotéis que tem tarifários com o _**“tipo de disponibilidade: tarifário com impacto no inventário”**,_ será possível atualizar o ‘Allotment’ desses tarifários diretamente no calendário 360.
+**Allotment:** para os hotéis que tem tarifários com o _**“tipo de disponibilidade: tarifário com impacto no inventário”**,_ será possível atualizar o ‘Allotment’ desses tarifários diretamente no calendário 360.
 
 - **Vista Tarifário:**
 

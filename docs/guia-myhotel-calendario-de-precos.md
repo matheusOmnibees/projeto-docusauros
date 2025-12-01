@@ -5,8 +5,6 @@ description: Neste guia, você vai aprender as funcionalidades da aba de Calend�
 slug: /
 ---
 
-![imagem-2](/assets/guia-myhotel-calendario-de-precos/imagem-2.webp)
-
 # Tarifários e Disponibilidade: Calendário de Preços
 
 GUIA RÁPIDO
@@ -124,7 +122,3 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 ![imagem-27](/assets/guia-myhotel-calendario-de-precos/imagem-27.webp)
 
 Boas Vendas!!
-
-![imagem-28](/assets/guia-myhotel-calendario-de-precos/imagem-28.webp)
-
-![imagem-29](/assets/guia-myhotel-calendario-de-precos/imagem-29.webp)

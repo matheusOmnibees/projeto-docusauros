@@ -7,12 +7,6 @@ slug: /
 
 # Gestão de Propriedade: Calendário 360
 
-![imagem-1](/assets/guia-myhotel-calendario-360/imagem-1.webp)
-
-![imagem-2](/assets/guia-myhotel-calendario-360/imagem-2.webp)
-
-![imagem-3](/assets/guia-myhotel-calendario-360/imagem-3.webp)
-
 Neste guia, você vai aprender a utilizar o Calendário 360° para gerir preços e disponibilidade dos tarifários!
 
 ### _**IMPORTANTE SABER**_
@@ -237,6 +231,3 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 Boas Vendas!!
 
-![imagem-41](/assets/guia-myhotel-calendario-360/imagem-41.webp)
-
-![imagem-42](/assets/guia-myhotel-calendario-360/imagem-42.webp)

@@ -4,9 +4,6 @@ title: Tarifários e Disponibilidade: Tarifários
 description: Neste guia, você vai aprender a criar e configurar os tarifários e pacotes do seu hotel!
 slug: /
 ---
-
-![imagem-2](/assets/guia-myhotel-tarifarios/imagem-2.webp)
-
 # Tarifários e Disponibilidade: Tarifários
 
 GUIA RÁPIDO

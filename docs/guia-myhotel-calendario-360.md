@@ -144,9 +144,9 @@ _**Obs:** selecionando o dia desejado, aparecerá também **o ícone de ‘+’*
 
 **Ao clicar no botão da ‘seta’ apontando para baixo para ter acesso ao botão “Atualizar Disponibilidade’, aparecerão também as opções de “Abrir Todas as Vendas”, “Fechar Todas as Vendas” e “Abrir/Fechar Seletivo”:**
 
-### Preços: será possível realizar cadastros ou atualizações dos preços dos tarifários diretamente no calendário 360:
-
 ![imagem-27](/assets/guia-myhotel-calendario-360/imagem-27.webp)
+
+#### Preços: será possível realizar cadastros ou atualizações dos preços dos tarifários diretamente no calendário 360:
 
 - **Vista Tarifário:**
 

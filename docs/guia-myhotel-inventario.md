@@ -5,8 +5,6 @@ description: Neste guia, você aprenderá como utilizar e interpretar as informa
 slug: /
 ---
 
-![imagem-2](/assets/guia-myhotel-inventario/imagem-2.webp)
-
 # Tarifários e Disponibilidade: Inventário
 
 GUIA RÁPIDO
@@ -168,7 +166,3 @@ E será possível atualizar o calendário de inventário para visualizar as modi
 ![imagem-27](/assets/guia-myhotel-inventario/imagem-27.webp)
 
 **Boas Vendas!!**
-
-![imagem-28](/assets/guia-myhotel-inventario/imagem-28.webp)
-
-![imagem-29](/assets/guia-myhotel-inventario/imagem-29.webp)

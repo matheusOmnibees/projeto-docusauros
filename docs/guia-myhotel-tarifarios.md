@@ -265,7 +265,7 @@ Também é possível acessar essas opções clicando com o **botão direito do m
 
 ![imagem-48](/assets/guia-myhotel-tarifarios/imagem-48.webp)
 
-H´ ainda outra possibilidade: ao clicar em um tarifário principal, aparecerá o botão **“Mais Opções”** ao lado dos botões **“Editar e Eliminar”**, onde também estarão disponíveis as opções **“Tarifário Derivado”** e **“Pacote Derivado”**:
+Há ainda outra possibilidade: ao clicar em um tarifário principal, aparecerá o botão **“Mais Opções”** ao lado dos botões **“Editar e Eliminar”**, onde também estarão disponíveis as opções **“Tarifário Derivado”** e **“Pacote Derivado”**:
 
 ### _**TARIFÁRIO DERIVADO:**_
 

@@ -71,9 +71,7 @@ Após a definição de datas, tarifários/pacotes e tipos de quartos, a aba **�
 
 Nesta aba, será possível cadastrar ou **atualizar os preços por ocupação do tipo de quarto** _(ex: para 1 Pax, para 2 Pax, para 1 Criança, etc)_, por meio das seguintes opções:
 
-### Preço Fixo
-
-Opção ideal para o cadastro ou atualizaçãp de preços de um único tarifário:
+### Preço Fixo: opção ideal para o cadastro ou atualizaçãp de preços de um único tarifário:
 
 ![imagem-15](/assets/guia-myhotel-precos-e-disponibilidade-atual/imagem-15.webp)
 

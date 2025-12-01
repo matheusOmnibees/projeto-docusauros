@@ -61,6 +61,4 @@ Após finalizar as configurações, clique em **‘Salvar’** para que o sistem
 
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-13](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-13.webp)
-
 Boas Vendas!!

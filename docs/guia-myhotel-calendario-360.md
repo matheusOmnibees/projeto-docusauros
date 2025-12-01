@@ -113,9 +113,11 @@ _**Obs:** selecionando o dia desejado, aparecerá também **o ícone de ‘+’*
 
 ➤ **OPÇÃO 3 – POR DIA PARA TODOS OS TARIFÁRIOS OU TIPOS DE QUARTOS:** clicando na ‘seta’, apontada para baixo, que irá aparecer do lado do dia selecionado, será possível aplicar um ‘fechar todas as vendas’ para todos os tarifários ou tipos de quartos.
 
+![imagem-23](/assets/guia-myhotel-calendario-360/imagem-23.webp)
+
 ### Disponibilidade: será possível atualizar a disponibilidade por tarifário ou tipo de quarto:
 
-![imagem-23](/assets/guia-myhotel-calendario-360/imagem-23.webp)
+
 
 - **Vista Tarifário:**
 

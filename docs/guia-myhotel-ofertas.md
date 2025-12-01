@@ -5,7 +5,6 @@ description: Neste guia, você vai aprender a criar e configurar as ofertas do s
 slug: /
 ---
 
-![imagem-2](/assets/guia-myhotel-ofertas/imagem-2.webp)
 
 # Tarifários e Disponibilidade: Ofertas
 

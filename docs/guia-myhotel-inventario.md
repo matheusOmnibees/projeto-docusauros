@@ -178,6 +178,4 @@ E será possível atualizar o calendário de inventário para visualizar as modi
 
 **Para mais informações, contate:** o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-27](/assets/guia-myhotel-inventario/imagem-27.webp)
-
 **Boas Vendas!!**

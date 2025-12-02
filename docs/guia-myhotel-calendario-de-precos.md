@@ -73,10 +73,10 @@ Ao clicar em um dia, abrirá uma ‘janela de ‘informações’, mostrando pre
 
 E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
+![imagem-18](/assets/guia-myhotel-calendario-de-precos/imagem-18.webp)
+
 - **Editar**: será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as atualizações de:
     - ‘<u>Preços do Quarto</u>’: aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
-
-![imagem-18](/assets/guia-myhotel-calendario-de-precos/imagem-18.webp)
 
 ![imagem-19](/assets/guia-myhotel-calendario-de-precos/imagem-19.webp)
 

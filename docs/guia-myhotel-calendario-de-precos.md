@@ -28,45 +28,38 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 
 ![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
 
-### 1. TARIFAS E PACOTE:
-nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário):
+**1. TARIFAS E PACOTE:** nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário):
 
 ![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
 
-### 2. PESQUISAR E AGRUPAR POR:
-será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty):
+**2. PESQUISAR E AGRUPAR POR:** será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty):
 
 ![imagem-10](/assets/guia-myhotel-calendario-de-precos/imagem-10.webp)
 
-### 3. ORDENAR POR:
-será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A':
+**3. ORDENAR POR:** será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A':
 
 ![imagem-11](/assets/guia-myhotel-calendario-de-precos/imagem-11.webp)
 
-### 4. PREÇOS PARA:
-escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
+**4. PREÇOS PARA:** escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
 
 ![imagem-12](/assets/guia-myhotel-calendario-de-precos/imagem-12.webp)
 
-### 5. MÊS:
-selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
+**5. MÊS:** selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
 
 ![imagem-13](/assets/guia-myhotel-calendario-de-precos/imagem-13.webp)
 
-### 6. VISUALIZAÇÃO 1 MÊS:
-permite consultar as informações do mês selecionado:
+**6. VISUALIZAÇÃO 1 MÊS:** permite consultar as informações do mês selecionado:
 
 ![imagem-14](/assets/guia-myhotel-calendario-de-precos/imagem-14.webp)
 
-### 7. VISUALIZAÇÃO 6 MESES:
-irá exibir um calendário que possibilita visualizar até 6 meses.
-
-### 8. INFORMAÇÕES:
-ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - _‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’_ - e que aparecerão no calendário de preços:
+**7. VISUALIZAÇÃO 6 MESES:** irá exibir um calendário que possibilita visualizar até 6 meses.
 
 ![imagem-15](/assets/guia-myhotel-calendario-de-precos/imagem-15.webp)
 
+**8. INFORMAÇÕES:** ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - _‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’_ - e que aparecerão no calendário de preços:
+
 ![imagem-16](/assets/guia-myhotel-calendario-de-precos/imagem-16.webp)
+
 
 ## Detalhes e Edição:
 

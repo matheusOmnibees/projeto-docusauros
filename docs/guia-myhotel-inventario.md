@@ -21,9 +21,11 @@ O caminho para acessar a aba de inventário é: **Menu de Navegação > Tarifár
 
 ![imagem-4](/assets/guia-myhotel-inventario/imagem-4.webp)
 
+
 Nesta aba será possível consultar as informações:
 
 ![imagem-6](/assets/guia-myhotel-inventario/imagem-6.webp)
+
 
 - Quantidade do **‘Total de Apartamentos’** no inventário dos tipos de quartos do hotel;
 - número de quartos **‘Ocupados’**;
@@ -32,6 +34,7 @@ Nesta aba será possível consultar as informações:
 Para os hotéis que possuem tarifários com o **‘Tipo de Disponibilidade: Tarifário com impacto no Inventário’**, também estará disponível a opção de visualizar o calendário em **‘Vista Detalhada’**, permitindo a consulta das atualizações de allotment realizadas para esse tipo de tarifário, onde serão exibidas:
 
 ![imagem-7](/assets/guia-myhotel-inventario/imagem-7.webp)
+
 
 - a quantidade de quartos **“Disponíveis por Inventário”**.
 - a quantidade de quartos **“Disponíveis por Allotment”**:
@@ -43,13 +46,16 @@ Ao clicar no **botão ‘Atualizar’**, será possível fazer a atualização d
 
 ![imagem-8](/assets/guia-myhotel-inventario/imagem-8.webp)
 
+
 **1. _Disponibilidade:_** número de quartos disponíveis:
 
 ![imagem-9](/assets/guia-myhotel-inventario/imagem-9.webp)
 
+
 Ao **‘Atualizar Disponibilidade’**, informe:
 
 ![imagem-10](/assets/guia-myhotel-inventario/imagem-10.webp)
+
 
 - **Quais as datas a atualizar?**
     - **De – Até:** informar o período que deseja atualizar, podendo _‘+ Adicionar outro período’_.
@@ -65,17 +71,21 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 
 ![imagem-11](/assets/guia-myhotel-inventario/imagem-11.webp)
 
+
 **E TAMBÉM SERÁ POSSÍVEL, CLICANDO DIRETAMENTE NA GRELHA DO CALENDÁRIO, SELECIONAR UM PERÍODO. PARA ISSO, BASTA CLICAR NO DIA INICIAL DO PERÍODO, ARRASTAR ATÉ OS DIAS SEGUINTES E, EM SEGUIDA, CLICAR NO ÍCONE DE LÁPIS NO ÚLTIMO DIA DO PERÍODO SELECIONADO:**
 
 ![imagem-12](/assets/guia-myhotel-inventario/imagem-12.webp)
+
 
 **2. _Ocupação:_** número de quartos ocupados:
 
 ![imagem-13](/assets/guia-myhotel-inventario/imagem-13.webp)
 
+
 Ao **‘Atualizar Ocupação’**, informe:
 
 ![imagem-14](/assets/guia-myhotel-inventario/imagem-14.webp)
+
 
 - **Quais as datas a atualizar?**
     - **De – Até:** informar o período que deseja atualizar, podendo _‘+ Adicionar outro período’_.
@@ -91,15 +101,19 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 
 ![imagem-15](/assets/guia-myhotel-inventario/imagem-15.webp)
 
+
 **E TAMBÉM SERÁ POSSÍVEL, CLICANDO DIRETAMENTE NA GRELHA DO CALENDÁRIO, SELECIONAR UM PERÍODO. PARA ISSO, BASTA CLICAR NO DIA INICIAL DO PERÍODO, ARRASTAR ATÉ OS DIAS SEGUINTES E, EM SEGUIDA, CLICAR NO ÍCONE DE LÁPIS NO ÚLTIMO DIA DO PERÍODO SELECIONADO:**
 
+
 ![imagem-16](/assets/guia-myhotel-inventario/imagem-16.webp)
+
 
 **3. _Total de apartamentos por período:_** quantidade total do inventário do hotel cadastrada para os tipos de quarto:
 
 Ao **‘Atualizar Total de Apartamentos’**, informe:
 
 ![imagem-17](/assets/guia-myhotel-inventario/imagem-17.webp)
+
 
 - **Qual é o quarto a atualizar?**
     - **Tipo de Quarto:** selecionar o tipo de quarto desejado.
@@ -113,21 +127,25 @@ Para finalizar a atualização clique no botão **‘Salvar’**.
 
 **UMA VEZ ALTERADO O ‘TOTAL DE APARTAMENTOS’, AS DATAS MODIFICADAS APARECERÃO COM O NÚMERO TOTAL SINALIZADO EM VERMELHO. ALÉM DISSO, TAMBÉM SERÁ POSSÍVEL CONSULTAR OS PERÍODOS ATUALIZADOS CLICANDO NO BOTÃO “(i) – INFORMAÇÃO”.**
 
+![imagem-18](/assets/guia-myhotel-inventario/imagem-18.webp)
+
+
 **SERÁ POSSÍVEL ATUALIZAR O ‘TOTAL DE APARTAMENTOS’, CLICANDO DIRETAMENTE NA GRELHA DO CALENDÁRIO, NO DIA DESEJADO E DEPOIS NO ÍCONE “LÁPIS”:**
 
-![imagem-18](/assets/guia-myhotel-inventario/imagem-18.webp)
+![imagem-19](/assets/guia-myhotel-inventario/imagem-19.webp)
+
 
 **TAMBÉM SERÁ POSSÍVEL, CLICANDO DIRETAMENTE NA GRELHA DO CALENDÁRIO, SELECIONAR UM PERÍODO. PARA ISSO, BASTA CLICAR NO DIA INICIAL DO PERÍODO, ARRASTAR ATÉ OS DIAS SEGUINTES DESEJADOS E, EM SEGUIDA, CLICAR NO ÍCONE DE LÁPIS NO ÚLTIMO DIA DO PERÍODO SELECIONADO:**
 
-![imagem-19](/assets/guia-myhotel-inventario/imagem-19.webp)
+![imagem-20](/assets/guia-myhotel-inventario/imagem-20.webp)
+
 
 ## Outras informações:
 
 No final do **calendário de inventário**, será possível visualizar:
 
-![imagem-20](/assets/guia-myhotel-inventario/imagem-20.webp)
-
 ![imagem-21](/assets/guia-myhotel-inventario/imagem-21.webp)
+
 
 - O número **‘Total de Apartamentos’** do inventário do hotel no sistema.
 - O número **‘Total de Ocupados’**, de quartos ocupados.
